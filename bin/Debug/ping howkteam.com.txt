@@ -1,0 +1,17 @@
+﻿Microsoft Windows [Version 10.0.17134.471]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\bin\Debug>ping howkteam.com
+
+Pinging howkteam.com [125.253.113.30] with 32 bytes of data:
+Reply from 125.253.113.30: bytes=32 time=5ms TTL=117
+Reply from 125.253.113.30: bytes=32 time=5ms TTL=117
+Reply from 125.253.113.30: bytes=32 time=6ms TTL=117
+Reply from 125.253.113.30: bytes=32 time=6ms TTL=117
+
+Ping statistics for 125.253.113.30:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 6ms, Average = 5ms
+
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\bin\Debug>

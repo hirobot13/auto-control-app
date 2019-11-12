@@ -1,0 +1,22 @@
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\bin\Debug\AutoControlApp.exe.config
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\bin\Debug\AutoControlApp.exe
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\bin\Debug\AutoControlApp.pdb
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csprojAssemblyReference.cache
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.Form1.resources
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.Properties.Resources.resources
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csproj.GenerateResource.cache
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.exe
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.pdb
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\bin\Debug\KAutoHelper.dll
+D:\OneDrive - Mail Server\DEVELOPMENT\C#\AutoC#\Project\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csproj.CopyComplete
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\bin\Debug\AutoControlApp.exe.config
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\bin\Debug\AutoControlApp.exe
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\bin\Debug\AutoControlApp.pdb
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csprojAssemblyReference.cache
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.Form1.resources
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.Properties.Resources.resources
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csproj.GenerateResource.cache
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.csproj.CopyComplete
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.exe
+C:\Users\pteam\Dropbox\C# projects\AutoControlApp\AutoControlApp\obj\Debug\AutoControlApp.pdb
